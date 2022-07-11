@@ -1,23 +1,24 @@
-/* 
- New-age mod version 1 
-  What is newage mod? Newage mod originally created when i remodelling the entire 
-  vanilla shiptree for ctf. then got the idea to combine bost kest and strawberry
-  into 1 single mod. then ended up creating an entire new shiptree that hopefully will
-  be used on future aow and gotn games
+/*
+New-age mod version 1 
 
- Whats finished : The entire shiptree, alien and asteroid spawner
+  What is the New-Age Mod? New-Age Mod was originally created when I was remodeling the entire 
+  Vanilla ship tree for Capture the Flag, but then got the idea to combine both KEST and Starberry Mod
+  into 1 single mod. So, I ended up creating an entire new ship tree in hopes it will
+  be used in future AOWs and Games of the Night.
  
- The plan: 
- 1.special ability ship, this ability function just like starblast prototype
- 2.Alien station, a huge alien station on the center of the map, function as an arena too
- 3.Lore :)
+Finished: The ship tree, alien spawners and asteroid spawners
+ 
+The plan: 
+  1. Special ship abilities, these abilities functions similar to Starblast Prototypes
+  2. Alien station; a huge alien station at the center of the map and functions as an arena
+  3. Lore :)
 
 New update:
-1.Ship regen mass buff
-2.Slight balancing
+ 1.Ship Regen buff and slight balancing
 
- Our discord invite link:
- https://discord.gg/gnUa3AE2dx The basement 
+Our discord invite link:
+https://discord.gg/PvkgWZvz3v Bonk association
+
 */
 
 const bans = ["TEST"];              // "TEST" is placeholder for name of person you want to ban. Note that multiple people can be banned.
